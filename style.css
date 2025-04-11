@@ -1,0 +1,37 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+input {
+  width: 80%;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 12px 24px;
+  background: #00ffcc;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #000;
+}
+
+#result {
+  margin-top: 20px;
+}
+
+.download-link {
+  color: #00ffcc;
+  text-decoration: underline;
+  display: block;
+  margin: 10px 0;
+}
